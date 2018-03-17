@@ -37,7 +37,7 @@ roles:
    start: 2016
    end: Ongoing
    employer: Oracle Financial Software Services Private Limited
-   description:OBP (Oracle Banking Platform) acts as a Middleware between Netbanking and Flexcube.The project is developed         using Soap Web Services.Webservices are deployed in WebLogic Server & Logging of errors in application is achieved by Log4j.Hands on experience in soap webservices ,weblogic server & deployment,JMS.
+   description:OBP (Oracle Banking Platform) acts as a Middleware between Netbanking and Flexcube.The project is developed using Soap Web Services.Webservices are deployed in WebLogic Server & Logging of errors in application is achieved by Log4j.Hands on experience in soap webservices ,weblogic server & deployment,JMS.
 
  - title: Software Developer
    start: 2015

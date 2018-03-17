@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Nisarg Pathak
+twitter_username: npp07
+name: Nisarg Pathak
 
 # Build settings
 markdown: kramdown
@@ -10,95 +10,74 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: http://nisargpathak.blogspot.in/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/npjava90
  - title: LinkedIn
    url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
  - Spring MVC
  - Spring Boot
- - Gradle
+ - MicroServices
+ - Hibernate
  - Java
- - JPA
  - SQL
+ - SOAP
  - REST
- - Tech Architecture
+ - Angularjs
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
+blogfeed: http://nisargpathak.blogspot.com/feeds/posts/default?alt=rss
 
 #Work experience is required
 roles:
- - title: Senior Engineer
+ - title: Software Developer
    start: 2016
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
+   employer: Oracle Financial Software Services Private Limited
+   description:OBP (Oracle Banking Platform) acts as a Middleware between Netbanking and Flexcube.The project is developed         using Soap Web Services.Webservices are deployed in WebLogic Server & Logging of errors in application is achieved by Log4j.Hands on experience in soap webservices ,weblogic server & deployment,JMS.
+
+ - title: Software Developer
+   start: 2015
    end: 2016
    employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   description: Merchant Onboarding Application is developed based on Struts and Spring Framework.project is used to automate Merchant onboarding process.Hands on experience in development using Struts & spring for dependancy injetion ,AngularJS & JBoss server.
+ - title: Junior Software Developer
+   start: 2015
+   end: 2016
+   employer: Insolutions Global Private Limited
+   description: A range of technical roles, primarily working on client sites in Financial Services.
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level:Maser of Computer Application (M.C.A)
+   date: 2013
+   subject: Computer Science
+   school: University of Gujarat
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+Udemy:
+   profileurl: https://www.udemy.com/user/nisarg-prakash-chandra-pathak
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
+    - title: Mastering microservices with spring-boot & spring-cloud
+      link: https://www.udemy.com/microservices-with-spring-boot-and-spring-cloud
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
-
+      date: December 16, 2017
+  
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
-
-#Mobile apps section is optional
-apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+ - npjava90/SpringConfigServer
+- npjava90/Config
+- npjava90/SpringBootRestService
+- npjava90/MicroSpringCloud
+- npjava90/SpringBatchXmlParsing
+- npjava90/JerseyHateOas
+- npjava90/SpringWithAngular
+- npjava90/spring_ultiple_fileupload
+- npjava90/struts_jasper
+- npjava90/Spring-Batch-Zip-Generation
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
